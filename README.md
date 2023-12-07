@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raymond Cancilao</h1>
 <h3 align="center">4th year Computer Engineering Student from BSU</h3>
-<h3 align="center">An Aspiring Python Developerfrom Philippines</h3>
+<h3 align="center">An Aspiring Python Developer from Philippines</h3>
 <img align="right" alt="coding" width="400" src="https://media1.tenor.com/images/ba6d7d37fa1e4ca966ac7328bf43b96c/tenor.gif?itemid=18657810">
 
 - 🔭 I’m currently working on **Recipe Book**
