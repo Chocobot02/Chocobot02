@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/Chocobot02/Chocobot02/assets/73695287/8b96ebe7-2b5d-4d57-b3a7-05c12e2dcbfd)
+![MasterHead](https://github.com/Chocobot02/Chocobot02/assets/73695287/8b96ebe7-2b5d-4d57-b3a7-05c12e2dcbfd)
 <h1 align="center">Hi 👋, I'm Raymond Cancilao</h1>
 <h3 align="center">A Graduating 4th year CoE Student from BSU</h3>
 <img align="right" alt="coding" width="400" src="https://media1.tenor.com/images/ba6d7d37fa1e4ca966ac7328bf43b96c/tenor.gif?itemid=18657810">
