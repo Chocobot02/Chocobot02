@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Recipe Book**
 
-- 🌱 I’m currently learning **Django and Pyspark**
+- 🌱 I’m currently learning **Django**
 
 - 👨‍💻 All of my projects are available at [https://chocobot02.github.io/personalweb/](https://chocobot02.github.io/personalweb/)
 
