@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Dentist Online Appointment System**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Django and Javascript**
 
 - 👨‍💻 All of my projects are available at [https://chocobot02.github.io/personalweb/](https://chocobot02.github.io/personalweb/)
 
